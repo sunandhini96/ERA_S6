@@ -208,4 +208,4 @@ loss=0.0320533886551857 batch_id=468: 100%|██████████| 469/4
 
 Test set: Average loss: 0.0189, Accuracy: 9942/10000 (99.42%)
 
-We created the network like squeeze and expand to reduce the parameters and increase the performance. We trained the our model with a 15 epochs, we observed 7 th epoch itself achieved 99.4 % test accuracy. 
+We created the network like squeeze and expand (transition layer in between) to reduce the parameters and increase the performance. We trained the our model with a 15 epochs, we observed 7 th epoch itself achieved 99.4 % test accuracy. 
